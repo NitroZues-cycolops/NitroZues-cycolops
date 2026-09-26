@@ -41,4 +41,4 @@ Backend developer, 2nd-year BTech student at KJ Somaiya College of Engineering �
 
 **RFID Attendance System** — an RFID-based automated attendance system.
 
-**Hackathon Judging Backend** — a FastAPI + PostgreSQL backend for a two-pass LLM-based team-judging pipeline (ingest from Google Sheets, score, rank), built solo under a 2-day deadline.
+**Hackathon Judging Backend** — a FastAPI + PostgreSQL backend for a two-pass LLM-based team-judging pipeline (ingest from Google Sheets, score, rank).
